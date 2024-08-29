@@ -1,5 +1,5 @@
-//Shrey Raj
-//23070123123
+//Garv Nandwana
+//23070123167
 //bitwise_operator
 #include<iostream>
 using namespace std;
