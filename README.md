@@ -34,4 +34,6 @@ return 0;
 }
 ```
 Output:
+![image](https://github.com/user-attachments/assets/7a2c9681-286a-4113-8214-e7aabdf3a519)
+
 Conclusion -> I learnt about bitwise operators.
